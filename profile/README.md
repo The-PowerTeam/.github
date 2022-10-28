@@ -10,7 +10,7 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
-### [우리의 프로젝트 로드맵]
+### <p align="center">[우리의 프로젝트 로드맵]</p>
 
 ![](https://i.imgur.com/waxVImv.png)
 
